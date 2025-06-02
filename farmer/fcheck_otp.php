@@ -13,4 +13,5 @@ if($count>0){
 }else{
 	echo "not_exist";
 }
+#for php
 ?>
