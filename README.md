@@ -7,6 +7,4 @@ Agri Tech Portal is a web-based platform designed to empower farmers with essent
 
 💹 Market Prices – View updated rates of various crops across different mandis.
 
-🏛️ Government Schemes – Learn about ongoing subsidies and farmer support programs.
-
 📞 Expert Advice – Access curated tips and resources from agriculture experts.
