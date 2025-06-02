@@ -1,6 +1,12 @@
-# Agriculture Portal
+Agri Tech Portal is a web-based platform designed to empower farmers with essential agricultural information in a simplified and accessible format. The portal provides real-time weather updates, crop recommendations, current market prices, and details about government schemes — all in one place.
 
-- Agriculture Portal is a machine learning-based project designed to provide predictions and recommendations for farmers. The system uses different algorithms to predict crops, recommend fertilizers, and provide rainfall and yield predictions to help farmers make informed decisions about their crops.
-- IT also has direct crop sales to customer with real payment interface using Stripe API.
-- Other supporting features are Chatbot using OPENAI's gpt-3.5-turbo model, Weather Forecast upto 4 days using Weather API, Agriculture realetd news using News API.
+🚀 Key Features
+🌦️ Live Weather Forecasts – Stay informed about local climate conditions.
 
+🌱 Crop Recommendations – Get suggestions based on season, region, and soil.
+
+💹 Market Prices – View updated rates of various crops across different mandis.
+
+🏛️ Government Schemes – Learn about ongoing subsidies and farmer support programs.
+
+📞 Expert Advice – Access curated tips and resources from agriculture experts.
